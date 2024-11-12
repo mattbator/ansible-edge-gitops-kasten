@@ -20,3 +20,7 @@ kasten:
       bucketName: rhvp-test-bucket
       immutable: true
       protectionPeriod: 168h0m0s # 7 Days
+    location-profile-2:
+      name: my-extra-profile
+      secretKey: secret/data/hub/aws-creds    
+      bucketName: rhvp-test-bucket-2
