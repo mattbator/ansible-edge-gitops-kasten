@@ -22,4 +22,4 @@ spec:
       enabled: true
   kastenDisasterRecovery:
     quickMode:
-      enabled: false
+      enabled: true
